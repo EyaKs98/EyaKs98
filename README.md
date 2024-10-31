@@ -1,5 +1,5 @@
 # Hi There 👋  
-I am Eya Ksouri , a software engineer.
+I am Eya Ksouri , a software engineer| FullStack Developer
 
 ## 🚀 About Me
 Passionnée par le développement FullStack et les technologies de pointe, je possède un an d'expérience acquise lors de mon stage de PFE et de missions en freelance. 
